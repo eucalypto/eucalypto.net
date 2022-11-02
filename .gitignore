@@ -1,0 +1,20 @@
+_site
+.sass-cache
+vendor
+.idea/
+.DS_Store
+
+# Generated files by hugo
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.mac
+hugo.linux
+/hugo
+
+# Temporary lock file while building
+/.hugo_build.lock
