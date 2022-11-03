@@ -1,5 +1,5 @@
 ---
-title: "Erfahrungsbericht: PSM I Zertifikat im Eigenstudium"
+title: "Professional Scrum Master I Certification as self study"
 date: 2022-11-02T19:27:28+0100
 type: "post"
 image: "/posts/2022-11-02-psmi-self-study/self-study.webp"
@@ -10,16 +10,30 @@ tags:
 - "Goal-Driven"
 ---
 
-Fazit, TL;DR
-Kann ich Eigenstudium für den PSM I empfehlen? Ja, es ist eine valide Alternative zur Fortbildung (mit Einschränkungen)
+##### TL;DR
+Can I recommend doing the Scrum.org Professional Scrum Master I (PSM I) Certification as self study? Yes, with the restriction that you get the practical experience somewhere else, this can be a valid alternative to a special preparation course.
 
 
+##### What are the restrictions?
 
-Der größte Benefit von der Fortbildung, habe ich mir sagen lassen (Lächeln), ist der Erfahrungsaustausch mit dem Trainer und den Teilnehmern. Deswegen ist mein größter Ratschlag sich in der CoP Agilität zu engagieren und diesen Austausch aktiv zu suchen. Es bringt nur wenig, diese Prüfung zu machen ohne es gleich in der Praxis einzusetzen oder sich darüber auszutauschen. Das wird aber niemanden überraschen (Zwinkern).
+There are special preparation courses for the PSM I Certification and they are great. Their main benefit is the sharing of experience between the trainer and the participants. In self study you don't get that, obviously. So if you decide to go for this self study approach, my recommendation is to find other scrum masters to share experience and ideas. 
 
-Wieso habe ich das so gemacht und nicht über die Fortbildung? Die PSM I Fortbildung dieses Jahr ist ausgefallen, und ich habe meine Fortbildungstage bereits für andere Fortbildungen verplant gehabt, wollte aber nicht bis zum nächsten Jahr warten.
+At my company we get a budget of training days per year and this year my day budget was already used for other trainings. But I didn't want to wait long for the next PSM I training, so I took the impatient route 😅.
 
-Zeitaufwand:
+
+##### How much time did I spend on preparing?
+
+All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more intense 4 days before the exam.
+
+- rlene
+- Blabla flriraen 
+- truniaetruniaetrnuirtea
+
+Colors:
+* Red
+* Green
+* Blue
+
 Insgesamt geschätzt :  8-12h (verteilt auf ~4 Wochen, mit Häufung auf die letzten 4 Tage vor der Prüfung)
 
 3-4 h Scrum Guide Studieren
