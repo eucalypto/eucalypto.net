@@ -4,10 +4,9 @@ date: 2022-11-02T19:27:28+0100
 type: "post"
 image: "/posts/2022-11-02-psmi-self-study/self-study.webp"
 tags:
-- "Observe"
-- "Mindful"
-- "Goals"
-- "Goal-Driven"
+- "Certification"
+- "Scrum"
+- "Agile"
 ---
 
 ##### TL;DR
@@ -23,32 +22,22 @@ At my company we get a budget of training days per year and this year my day bud
 
 ##### How much time did I spend on preparing?
 
-All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more intense 4 days before the exam.
+All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more intense 4 days before the exam:
 
-- rlene
-- Blabla flriraen 
-- truniaetruniaetrnuirtea
+- 3-4 hours of Reading/Listening to the Scrum Guide
+- 1-2 hours of following the Scrum Master Path
+- 2-3 hours of doing Open Assessments
+- 2-3 hours of talking to other scrum masters from my company
 
-Colors:
-* Red
-* Green
-* Blue
+##### Resources
 
-Insgesamt geschätzt :  8-12h (verteilt auf ~4 Wochen, mit Häufung auf die letzten 4 Tage vor der Prüfung)
+- Agile community at my company
+- Scrum Guide
+  - As audio book https://www.michaelvizdos.com/scrum-guide
+  - As Podcast https://www.scrum.org/resources/agile-wire-podcast-2020-scrum-guide-audio-version
+    - I've listened to the scrum guide for 3-4 times all in all, but not sequentially.
+  - As PDF https://www.scrum.org/resources/scrum-guide
 
-3-4 h Scrum Guide Studieren
-PDF lesen (und vielleicht markieren)
-Audiobuch Hören (Lächeln)
-1-2 h Scrum Master Path
-2-3 h Open Assessments
-2-3 h Austausch mit anderen jambit SM (CoP, und Einzelgespräche)
-Ressourcen:
-CoP Agilität: Austausch mit anderen jambit Agilisten
-Scrum Guide
-Audiobuch https://www.michaelvizdos.com/scrum-guide
-Podcast https://www.scrum.org/resources/agile-wire-podcast-2020-scrum-guide-audio-version
-(Insgesamt 3-4 mal durchgehört, nicht hintereinander)
-PDF (duh (Lächeln)) https://www.scrum.org/resources/scrum-guide
 Open Assessment: Scrum Open
 https://www.scrum.org/open-assessments/scrum-open
 Kann ich sehr empfehlen. Egal ob man auf eine Prüfung lernt, oder sein Scrum Wissen vertiefen oder festigen will.
