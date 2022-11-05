@@ -37,50 +37,57 @@ All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more int
   - As Podcast https://www.scrum.org/resources/agile-wire-podcast-2020-scrum-guide-audio-version
     - I've listened to the scrum guide for 3-4 times all in all, but not sequentially.
   - As PDF https://www.scrum.org/resources/scrum-guide
+- Open Assessment: Scrum Open
+  - https://www.scrum.org/open-assessments/scrum-open
+  - I can warmly recommend the scrum open practice exams. If you're learning for the exam or just to refresh your Scrum knowledge.
+  - I took those sucrum open practice exams until I could finish them quickly with ~100% accuracy.
+- Open Assessment: Product Owner
+  - https://www.scrum.org/open-assessments/product-owner-open
+  - I did this open assessment for a Product Owner as well until I could do them also with ~100% accuracy. Scrum is very much focused on providing the Product Owner with the resources to iteratively discover his product by testing the assumptions. Any you as Scrum Master are there to help them.
+- Open Assessment: Scrum Developer
+  - https://www.scrum.org/open-assessments/scrum-developer-open
+  - I find this optional for a Scrum Master. The topics are quite technical and I feel they don't teach the scrum framework well. You can do the assessment if you like.
+- Scrum Glossary
+  - https://www.scrum.org/resources/scrum-glossary
+  - A great collection of all the important terms. They go beyond the scrum guide and are important.
+- Another great guide to do the PSM I on your own: https://www.linkedin.com/pulse/how-prepare-pass-professional-scrum-master-i-psm-boris-magas
 
-Open Assessment: Scrum Open
-https://www.scrum.org/open-assessments/scrum-open
-Kann ich sehr empfehlen. Egal ob man auf eine Prüfung lernt, oder sein Scrum Wissen vertiefen oder festigen will.
-Diese Fragen sollte man zügig und zuverlässig mit ~100% beantworten können
-Open Assessment: Product Owner
-https://www.scrum.org/open-assessments/product-owner-open
-Dieses Open Assessment sollte man auch irgendwann mit ~100% schaffen. Scrum ist extrem stark auf die PO Tätigkeiten ausgerichtet, und deswegen ist es für einen SM wichtig diese Perspektive auch gut zu kennen.
-Open Assessment: Scrum Developer
-https://www.scrum.org/open-assessments/scrum-developer-open
-Kann man zum Spaß mal machen. Die Fragen hier sind schon extrem technisch auf Software Developer gerichtet. Automation Testing, Automatic Build Pipeline, etc...
-Scrum Glossary
-https://www.scrum.org/resources/scrum-glossary
-Anleitungsartikel https://www.linkedin.com/pulse/how-prepare-pass-professional-scrum-master-i-psm-boris-magas
-Welche Ressourcen habe ich mit Absicht ignoriert?
-Externe Prüfungs-Simulatoren
-Es gibt neben den Open Assessments auch noch weitere semi-legitime Prüfungs-Simulatoren. Die habe ich ignoriert, weil sich viele davon auf die alte Version des Scrum Guide beziehen, und die Open Assessments genug sind.
-Online Kurse
-Sind bestimmt eine tolle Sache, wenn man noch gar keine Erfahrung mit Scrum hat, und man bekommt am Ende auch oft ein paar Übungs-Tests. Aber der PSM I ist vom Stoff her sehr übersichtlich und die anderen Ressourcen waren für die Prüfung gut und ausreichend.
-Scrum Master Learning Path
-https://www.scrum.org/pathway/scrum-master
-Eigentlich eine feine Sache. Das ist eine kurierte Sammlung von Blogposts, Videos, etc. Mein Plan war auch diesen Pfad von Oben nach Unten durchzugehen, aber mir wurde bald langweilig. Weil es "nur" eine Sammlung von externen Inhalt ist, schwankt die Qualität und Tiefe stark. Damit bin ich nicht zurecht gekommen. Wofür der Pfad aber klasse ist: wenn man sich in einem bestimmten Bereich einlesen will, weil man sich da z.B nicht sicher fühlt, oder wenn man etwas nachschlagen will.
-Wann bin ich bereit für die Prüfung?
-Das war für mich die schwierigste Frage. Ich habe mich daran orientiert:
+###### What Resources did I discard?
 
-Wenn man die Scrum Open Assessments durchgehend mit ~100% schafft, und auch noch die Product Owner Open Assessments, und zwar beide zügig in ~1/3 der verfügbaren Zeit.
-Wenn man den Scrum Guide praktisch auswendig kann, d.h. die wichtigsten Daten aufsagen kann: die 3 Artefacts, die 5 Events und ihre Timeboxes, Team Zusammensetzung, ...
-Wenn man im Scrum Glossary mit jedem Begriff was anfangen kann
-Tipps für die Prüfung:
-Aufbau der Prüfung ist genauso wie die Open Assessments
-Optik
-Benutzung
-Der Scrum Guide ist die Bibel! Daran wird nicht gezweifelt!
-Manche Fragen sind tricky weil einige Antworten gegen den Scrum Guide gehen, aber jede Antwort gegen den Scrum guide ist falsch! (Lächeln)
-An eine Frage kann ich mich erinnern: Was macht der Scrum Master wenn das Team in der Retro sich einigt, die Daily Scrums nur noch 3 mal die Woche zu machen?
-→ Antwort: Dem Team "nahelegen" wieso es von Vorteil ist den Daily Scrum auch täglich zu machen und ihnen zuhören wieso sie diese Änderung anstreben. (Anstatt ihre Entscheidung zu respektieren (Zunge))
-Etwa 50% der Fragen waren fast 1:1 schon aus dem Open Assessment bekannt
-Man hat 80 Fragen und 60 Minuten Zeit
-Das ist schon sportlich. Die Open Assessment Fragen (50%) helfen hier Easy Points zu bekommen und sich Zeit zu beschaffen für die unbekannten schwierigeren Fragen
-Die Prüfungs-Umgebung wird gar nicht geprüft, ich hätte ohne Probleme in einem anderen Tab googeln oder etwas nachlesen können. Aber man hat einfach nicht die Zeit dafür. (und man will natürlich nicht Cheaten)
-Ich hatte ~10% knackige Fragen, wo mir die Antwort wirklich nicht klar war, und ich länger nachdenken musste
-Man kann sich Fragen markieren (flaggen) und am Ende vor dem Abgeben nochmal anschauen.
-Bei mir hat das wenig geholfen. Unklare Fragen waren beim zweiten Anschauen immer noch unklar (Lächeln)
-Hätte aber was bringen können.
-Achtet besonders auf die Meta-Daten zu den Fragen
-Wie viele Antworten sind erwartet
-Soll man die beste oder die schlechteste Option auswählen
+- External Exam Simulators
+  - Other than the official Open Assessment, there are other semi-legitimate exam simulators. I did not use them because they appear to be based on an earlier version of the Scrum Guide and I did not want to learn "wrong" knowledge.
+  - Also, In the end it turns out that I did succeed without them so they are empirically optional 😄.
+- Online Courses
+  - Are great if you're starting from scratch. For this first PSM I Certification, the free resources were fully enough to pass the exam
+- Scrum Master Learning Path
+  - https://www.scrum.org/pathway/scrum-master
+  - Looks great. It's a curated collection of blog posts, videos and such. It's very long. I started to go through it but realized that it was too much time. It's great though to look for specific topics. 
+
+##### When am I ready for the exam?
+
+This is maybe the most tricky question. An exam attempt does come with a cost of $200 so I did not take it lightly. This is what I've used for guidance:
+
+- Being able to do the Open Assessments for PSM I with constantly 100% accuracy and PSPO I with about 100% accuracy. In about 1/3rd of the allowed time.
+- Knowing the current Scrum Guide almost by heart. Knowing the important data and numbers like the 3 Artefacts, the 5 Events, their time boxes and who is mandatory to be present...
+- Knowing what all the terms in the Scrum glossary. Not completely, but so that you know what each roughly means.
+
+##### Advice for taking the exam
+
+Be aware of what this exam tests and what it does not. It tests that you have read the Scrum Guide and understand it the way the creators do. It does not test your experience with Scrum or additional connections to other frameworks.
+
+It helped me to mentally approach this exam with the strategy to pass this specific exam. Instead of showing my knowledge of Scrum. This means that the following tactics helped me for the exam alone and their usefulness ends with the exam. 
+
+- The exam looks exactly like the Open Assessment. It's user interface and behavior is exactly the same.
+- Never go against the Scrum Guide. Any answer that suggests to deviate from the Scrum Guide is wrong in the eyes of the exam.
+- About 50% of the questions I already have seen 1:1 from the Open Assessment 
+- You have 60 minutes for 80 questions
+  - That's quite a pace. This is why it's important to be able to do the Open Assessment very quickly. You will see those questions and answering them quickly gives you more time for unexpected questions that make you stumble.
+- Your exam environment is not technically checked at all. You could easily open other browser tabs and look for the answers, but you simply don't have the time for it 🙂.
+- About 10% of the questions were tricky to me and I needed more time to think about them.
+- You can mark questions like these so that at the end you can review them again.
+  - This review of the tricky questions did not help me much. Unclear questions remained unclear even after a revisit.
+- Pay extra attention to the metadata of a question
+  - How many answers are you supposed to tick?
+  - Should you pick the best or the worst answers? (some questions are flipped logically)
+  - Spot Scrum anti-terms, i.e. terms that Scrum is actively discarding. For example "project manager" is explicitly not part of Scrum, so any answer with this term is probably against Scrum.
+  - There are also answers with other terms from classical project management, those answers are wrong in the eyes of the exam.
