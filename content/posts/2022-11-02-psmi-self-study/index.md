@@ -1,5 +1,5 @@
 ---
-title: "Professional Scrum Master I Certification as self study"
+title: "Professional Scrum Master (PSM I) Certification as self study"
 date: 2022-11-02T19:27:28+0100
 type: "post"
 image: "/posts/2022-11-02-psmi-self-study/self-study.webp"
@@ -29,6 +29,8 @@ All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more int
 - 2-3 hours of doing Open Assessments
 - 2-3 hours of talking to other scrum masters from my company
 
+<br>
+
 ##### Resources
 
 - Agile community at my company
@@ -52,6 +54,8 @@ All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more int
   - A great collection of all the important terms. They go beyond the scrum guide and are important.
 - Another great guide to do the PSM I on your own: https://www.linkedin.com/pulse/how-prepare-pass-professional-scrum-master-i-psm-boris-magas
 
+<br>
+
 ###### What Resources did I discard?
 
 - External Exam Simulators
@@ -63,6 +67,8 @@ All in All it took me 8 - 12 hours, spread over about 4 weeks, but with more int
   - https://www.scrum.org/pathway/scrum-master
   - Looks great. It's a curated collection of blog posts, videos and such. It's very long. I started to go through it but realized that it was too much time. It's great though to look for specific topics. 
 
+<br>
+
 ##### When am I ready for the exam?
 
 This is maybe the most tricky question. An exam attempt does come with a cost of $200 so I did not take it lightly. This is what I've used for guidance:
@@ -70,6 +76,8 @@ This is maybe the most tricky question. An exam attempt does come with a cost of
 - Being able to do the Open Assessments for PSM I with constantly 100% accuracy and PSPO I with about 100% accuracy. In about 1/3rd of the allowed time.
 - Knowing the current Scrum Guide almost by heart. Knowing the important data and numbers like the 3 Artefacts, the 5 Events, their time boxes and who is mandatory to be present...
 - Knowing what all the terms in the Scrum glossary. Not completely, but so that you know what each roughly means.
+
+<br>
 
 ##### Advice for taking the exam
 
