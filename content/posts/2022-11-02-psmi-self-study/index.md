@@ -99,3 +99,9 @@ It helped me to mentally approach this exam with the strategy to pass this speci
   - Should you pick the best or the worst answers? (some questions are flipped logically)
   - Spot Scrum anti-terms, i.e. terms that Scrum is actively discarding. For example "project manager" is explicitly not part of Scrum, so any answer with this term is probably against Scrum.
   - There are also answers with other terms from classical project management, those answers are wrong in the eyes of the exam.
+
+<br>
+
+What's your experience with the PSM I exam on scrum.org? Let's discuss this on Twitter: https://twitter.com/ViktorPapara/status/1589227662106447872
+
+---
