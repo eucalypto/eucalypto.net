@@ -100,10 +100,6 @@ legal_and_privacy = "[Legal](/legal) | [Privacy](/privacy)"
 #link = "https://facebook.com/themefisher"
 
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/ViktorPapara"
-
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/viktor-papara/"
 
