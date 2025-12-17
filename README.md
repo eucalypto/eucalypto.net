@@ -1,47 +1,71 @@
 # eucalypto.net
 
-This version is build with Hugo:
+## Setup after clone
+
+After a git clone, run 
 
 ```bash
-hugo v0.104.3-58b824581360148f2d91f5cc83f69bd22c1aa331 darwin/amd64 BuildDate=2022-10-04T14:25:23Z VendorInfo=gohugoio
+bash setup-submodules.sh
 ```
 
-https://github.com/gohugoio/hugo/releases/tag/v0.104.3
+to setup the git submodules for the public generated files and the parsa theme.
 
-I've copied the hugo executable into the root directory of this project, but excluded it from git. You should be able to
-download and run the version above. :)
-
-After cloning, you need to load the theme as a submodule.
+## Hugo Version
+This blog is built with Hugo:
 
 ```bash
-git submodule init
-git submodule update
+hugo version
+hugo v0.152.2+extended+withdeploy darwin/arm64 BuildDate=2025-10-24T15:31:49Z VendorInfo=brew
 ```
 
-I've forked the theme so that there won't be any unexpected changes for me: https://github.com/eucalypto/beautifulhugo  
+I started simply installing Hugo with brew. Previously I used to download the binary, but not anymore.
 
-Add Parsa theme as submodule:
+## Local Development
+
+To start local development, run:
 
 ```bash
-/eucalypto.net$ git submodule add git@github.com:eucalypto/parsa-hugo.git themes/parsa-hugo
+hugo serve
 ```
 
+This will build the website in `public/` and create a local server at http://localhost:1313/ and host the generated website.
 
 ## Deployment
-### Local preparations
 
-I can publish the generated html pages from ./public/ into a git repository that I set up at my hoster. For that I need a separate branch named `public`.
+Once you're satisfied with the locally served result of hugo, you need to run it again to generate the static files again for public hosting:
 
-Since hugo generates the files into the folder `public`, I can use git worktree to check out the branch into this folder:
 ```bash
-git worktree add public/ public
+hugo build
 ```
 
-I'm not using git to deploy the site, but it's still good to have the actual "artefact" also versioned here in git. :)
+Then go to public/ folder.
+Since we've set up the public files as a git submodule, you can commit and push your changes to the submodule with 
 
-### Actual Deployment
-#### Via FTP
-I'm using Filezilla and I've created an extra ftp account how-to-human-ftp that I'm using for the credentials. In Filezilla, I've set up the "Explicit FTP over TLS" option, to make the FTP secure. Then I simply have to copy everything from `/public/*` to `/*` on the ftp side.
+```bash
+git commit -a
+git push
+```
 
-#### Not via git
-My hosting provider allows me to create a git repository that I can push changes to. But it uses the credentials of the single webmaster account. I would like to use separate credentials. So I.m using the FTP solution above. 
+This will push the generated static site files to 
+https://github.com/eucalypto/public.eucalypto.net
+
+This GitHub repository is set up so that it executes a git hook on push that triggers the hoster to fetch the current state and host the files.
+
+So I can deploy the site simply by pushing to this GitHub repo. The webhook then triggers the netcup's git clone to pull the changes and deploy them to the web server.
+
+
+## Images workflow
+
+I'm designing the images in a Google presentation:
+
+https://docs.google.com/presentation/d/1ew8Yqg29Gq6ejbp59h3ontfCvc-BSmxdmNN6m8CVHMA
+
+I can download the whole thing or individual slides as jpg or png. But the filesizes are larger than necessary.
+
+To convert them to webp use
+
+```sh
+cwebp Instagram-post.png -o Instagram-post.webp
+```
+
+I installed cwebp via `brew install webp`
