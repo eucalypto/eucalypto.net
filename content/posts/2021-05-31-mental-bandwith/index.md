@@ -1,7 +1,7 @@
 ---
 date: "2021-05-31"
 type: "post"
-image: "/posts/2013-04-14-pdf-tools/pdf-tools-for-printing.webp"
+image: "/posts/2021-05-31-mental-bandwith/mental-bandwidth.webp"
 title: "Human Limitations: Mental Bandwidth / Capacity"
 ---
 

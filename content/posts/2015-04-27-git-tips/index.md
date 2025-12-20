@@ -2,7 +2,7 @@
 title: Git Tips
 date: "2015-04-27T02:36:00Z"
 type: "post"
-image: "/posts/2022-11-02-psmi-self-study/self-study.webp"
+image: "/posts/2015-04-27-git-tips/computer-tools.webp"
 tags:
 - git
 - code

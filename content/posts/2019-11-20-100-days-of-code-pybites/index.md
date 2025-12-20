@@ -1,7 +1,7 @@
 ---
 date: "2019-11-20T00:00:00Z"
 type: "post"
-image: "/posts/2013-04-14-pdf-tools/pdf-tools-for-printing.webp"
+image: "/posts/2019-11-20-100-days-of-code-pybites/100-days.webp"
 tags:
 - python3
 title: So, I've started the 100 days of code challenge with PyBites

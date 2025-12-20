@@ -1,11 +1,11 @@
 ---
 title: "Dr. Functionallove or: How I Learned to Stop Worrying and Love Immutability"
+type: "post"
 date: 2021-07-21T19:50:04+02:00
 subtitle: "How the real world taught me to embrace immutable data structures"
-image: "/post/2021-07-21-immutable-data-classes/2021-07-21-mutable-list-adapter.webp"
+image: "/posts/2021-07-21-immutable-data-classes/2021-07-21-mutable-list-adapter.webp"
 tags: [immutable, functional, side-effects, RecyclerView, ListAdapter, Room]
 ---
-type: "post"
 
 So I'm working on this [Time Tracker Android App](https://github.com/eucalypto/time-tracker) that among other things displays a list of so-called Categories.
 

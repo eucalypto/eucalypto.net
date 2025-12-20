@@ -1,7 +1,7 @@
 ---
 date: "2021-03-29"
 type: "post"
-image: "/posts/2013-04-14-pdf-tools/pdf-tools-for-printing.webp"
+image: "/posts/2021-03-29-real-intent-of-code-katas/code-katas.webp"
 title: The Real Intent of Code Katas
 ---
 
