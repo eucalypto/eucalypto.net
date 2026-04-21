@@ -1,6 +1,3 @@
 [submodule "themes/parsa-hugo"]
 	path = themes/parsa-hugo
 	url = git@github.com:eucalypto/parsa-hugo.git
-[submodule "public"]
-	path = public
-	url = git@github.com:eucalypto/public.eucalypto.net.git
